@@ -1,0 +1,346 @@
+[INFO ] 2017-08-25 13:01:42.953 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 13:01:43.692 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 97077 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 13:01:43.692 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 13:01:46.503 [main] AppConfiguration$$EnhancerBySpringCGLIB$$1cfd7f31 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 13:01:47.777 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.658 seconds (JVM running for 5.665)
+[INFO ] 2017-08-25 13:02:13.367 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 13:02:13.367 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 13:02:13.368 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 13:02:13.368 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 13:02:13.396 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 13:02:18.462 [http-nio-8080-exec-3] HomeController - This is an info message
+[WARN ] 2017-08-25 13:02:18.462 [http-nio-8080-exec-3] HomeController - This is a warn message
+[ERROR] 2017-08-25 13:02:18.462 [http-nio-8080-exec-3] HomeController - This is an error message
+[INFO ] 2017-08-25 13:02:18.463 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 13:02:18.463 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 13:02:44.179 [http-nio-8080-exec-7] HomeController - This is an info message
+[WARN ] 2017-08-25 13:02:44.179 [http-nio-8080-exec-7] HomeController - This is a warn message
+[ERROR] 2017-08-25 13:02:44.179 [http-nio-8080-exec-7] HomeController - This is an error message
+[INFO ] 2017-08-25 13:02:44.179 [http-nio-8080-exec-7] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 13:02:44.179 [http-nio-8080-exec-7] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 13:45:29.669 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 13:45:30.178 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 22066 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 13:45:30.179 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 13:45:32.769 [main] AppConfiguration$$EnhancerBySpringCGLIB$$85e72808 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 13:45:33.972 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.204 seconds (JVM running for 5.044)
+[INFO ] 2017-08-25 13:45:40.973 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 13:45:40.974 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 13:45:40.974 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 13:45:40.974 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 13:45:40.987 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:05:37.694 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:05:38.191 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 35858 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:05:38.192 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:05:41.175 [main] AppConfiguration$$EnhancerBySpringCGLIB$$85e72808 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:05:42.303 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.505 seconds (JVM running for 5.325)
+[INFO ] 2017-08-25 17:05:46.266 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 17:05:46.266 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:05:46.267 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 17:05:46.267 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:05:46.278 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:06:51.369 [http-nio-8080-exec-6] HomeController - This is an info message
+[WARN ] 2017-08-25 17:06:51.370 [http-nio-8080-exec-6] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:06:51.370 [http-nio-8080-exec-6] HomeController - This is an error message
+[INFO ] 2017-08-25 17:06:51.370 [http-nio-8080-exec-6] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:06:51.370 [http-nio-8080-exec-6] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:07:09.573 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:07:10.093 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 36716 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:07:10.096 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:07:12.721 [main] AppConfiguration$$EnhancerBySpringCGLIB$$3bcc7362 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:07:13.979 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.296 seconds (JVM running for 5.155)
+[INFO ] 2017-08-25 17:07:18.327 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 17:07:18.327 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:07:18.327 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 17:07:18.327 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:07:18.335 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:25:01.614 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:25:02.368 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 46733 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:25:02.368 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:25:05.352 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d3e1075b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:25:52.317 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:25:53.070 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 47244 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:25:53.070 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:25:55.653 [main] AppConfiguration$$EnhancerBySpringCGLIB$$85e72808 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:25:56.957 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.479 seconds (JVM running for 5.505)
+[INFO ] 2017-08-25 17:26:10.534 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 17:26:10.535 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:26:10.536 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 17:26:10.536 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:26:10.550 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:26:49.728 [http-nio-8080-exec-8] HomeController - This is an info message
+[WARN ] 2017-08-25 17:26:49.729 [http-nio-8080-exec-8] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:26:49.729 [http-nio-8080-exec-8] HomeController - This is an error message
+[INFO ] 2017-08-25 17:26:49.729 [http-nio-8080-exec-8] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:26:49.730 [http-nio-8080-exec-8] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:29:38.515 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:29:39.169 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 49339 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:29:39.169 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:29:41.561 [main] AppConfiguration$$EnhancerBySpringCGLIB$$c1386a4f - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:29:42.833 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.197 seconds (JVM running for 5.199)
+[INFO ] 2017-08-25 17:29:49.976 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 17:29:49.977 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:29:49.977 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 17:29:49.977 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:29:49.984 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:32:26.288 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:32:27.403 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 50956 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:32:27.404 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:32:27.708 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:32:28.874 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 50957 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:32:28.874 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:32:32.386 [main] AppConfiguration$$EnhancerBySpringCGLIB$$157e6c7b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:32:33.735 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d5d0e212 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:32:34.853 [main] SpringBootWebApplication - Started SpringBootWebApplication in 8.41 seconds (JVM running for 9.671)
+[INFO ] 2017-08-25 17:32:49.829 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:32:50.355 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 51147 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:32:50.355 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:32:53.055 [main] AppConfiguration$$EnhancerBySpringCGLIB$$3bcc7362 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:32:54.275 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.346 seconds (JVM running for 5.214)
+[INFO ] 2017-08-25 17:33:07.629 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 17:33:07.629 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:33:07.629 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 17:33:07.629 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:33:07.637 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:35:17.530 [http-nio-8080-exec-4] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:35:17.530 [http-nio-8080-exec-4] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:35:17.530 [http-nio-8080-exec-4] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:35:43.367 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:35:43.944 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 52760 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:35:43.945 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:35:46.805 [main] AppConfiguration$$EnhancerBySpringCGLIB$$85e72808 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:35:48.004 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.507 seconds (JVM running for 5.354)
+[INFO ] 2017-08-25 17:35:53.294 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-08-25 17:35:53.295 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-08-25 17:35:53.296 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-08-25 17:35:53.298 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:35:53.316 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 17:35:56.538 [http-nio-8080-exec-6] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:35:56.538 [http-nio-8080-exec-6] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:35:56.538 [http-nio-8080-exec-6] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:40:08.531 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:40:09.186 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 55456 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:40:09.187 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:40:11.821 [main] AppConfiguration$$EnhancerBySpringCGLIB$$3bcc7362 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:40:13.267 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.622 seconds (JVM running for 5.546)
+[INFO ] 2017-08-25 17:40:22.653 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:40:22.653 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:40:22.654 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:41:41.332 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:41:41.873 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 56314 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:41:41.874 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:41:44.375 [main] AppConfiguration$$EnhancerBySpringCGLIB$$c2e554e - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:41:45.684 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.249 seconds (JVM running for 5.089)
+[INFO ] 2017-08-25 17:41:50.281 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:41:50.281 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:41:50.281 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:43:28.985 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:43:29.566 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 57358 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:43:29.570 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:43:31.918 [main] AppConfiguration$$EnhancerBySpringCGLIB$$5d35910a - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:43:33.124 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.044 seconds (JVM running for 4.837)
+[INFO ] 2017-08-25 17:43:36.943 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:43:36.943 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:43:36.943 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:44:23.637 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:44:24.183 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 57832 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:44:24.184 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:44:26.502 [main] AppConfiguration$$EnhancerBySpringCGLIB$$f2b4fbed - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:44:27.797 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.063 seconds (JVM running for 4.952)
+[INFO ] 2017-08-25 17:44:32.749 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:44:32.750 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:44:32.750 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:50:02.159 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:50:02.745 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 60972 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:50:02.745 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:50:05.561 [main] AppConfiguration$$EnhancerBySpringCGLIB$$4a6a7f15 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:50:07.135 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.876 seconds (JVM running for 5.708)
+[INFO ] 2017-08-25 17:50:20.582 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:50:20.583 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:50:20.583 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:52:59.051 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:52:59.736 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 62679 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:52:59.737 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:53:02.887 [main] AppConfiguration$$EnhancerBySpringCGLIB$$85e72808 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:53:04.095 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.939 seconds (JVM running for 5.813)
+[INFO ] 2017-08-25 17:53:09.310 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:53:09.311 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:53:09.312 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:54:53.913 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:54:54.495 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 63722 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:54:54.496 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:54:57.014 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d3e1075b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:54:58.154 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.138 seconds (JVM running for 4.946)
+[INFO ] 2017-08-25 17:55:07.236 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:55:07.237 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:55:07.237 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 17:55:43.697 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 17:55:44.204 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 64200 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 17:55:44.205 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 17:55:46.817 [main] AppConfiguration$$EnhancerBySpringCGLIB$$3bcc7362 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 17:55:47.977 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.164 seconds (JVM running for 5.044)
+[INFO ] 2017-08-25 17:56:25.369 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 17:56:25.369 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 17:56:25.370 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 18:00:04.317 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:00:04.816 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 66575 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:00:04.816 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:00:07.364 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d3e1075b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:00:08.556 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.134 seconds (JVM running for 4.984)
+[INFO ] 2017-08-25 18:00:15.271 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 18:00:15.273 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 18:00:15.273 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 18:01:01.145 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:01:01.614 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 67142 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:01:01.614 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:01:04.040 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d3e1075b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:01:05.321 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.065 seconds (JVM running for 4.888)
+[INFO ] 2017-08-25 18:01:10.690 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 18:01:10.691 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 18:01:10.691 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 18:04:26.601 [http-nio-8080-exec-3] IntencoesController - This is an info message
+[WARN ] 2017-08-25 18:04:26.603 [http-nio-8080-exec-3] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 18:04:26.603 [http-nio-8080-exec-3] IntencoesController - This is an error message
+[INFO ] 2017-08-25 18:26:34.505 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:26:35.192 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 81300 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:26:35.193 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:26:38.052 [main] AppConfiguration$$EnhancerBySpringCGLIB$$85e72808 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:26:39.225 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.558 seconds (JVM running for 5.666)
+[INFO ] 2017-08-25 18:26:44.316 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 18:26:44.316 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 18:26:44.316 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 18:28:04.361 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:28:04.872 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 82156 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:28:04.874 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:28:07.167 [main] AppConfiguration$$EnhancerBySpringCGLIB$$c2e554e - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:28:08.298 [main] SpringBootWebApplication - Started SpringBootWebApplication in 3.834 seconds (JVM running for 4.686)
+[INFO ] 2017-08-25 18:28:11.772 [http-nio-8080-exec-1] IntencoesController - This is an info message
+[WARN ] 2017-08-25 18:28:11.772 [http-nio-8080-exec-1] IntencoesController - This is a warn message
+[ERROR] 2017-08-25 18:28:11.772 [http-nio-8080-exec-1] IntencoesController - This is an error message
+[INFO ] 2017-08-25 18:42:36.143 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:42:36.703 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 89979 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:42:36.704 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:42:39.248 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d1fb9439 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:43:08.954 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:43:09.534 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 90268 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:43:09.535 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:43:12.062 [main] AppConfiguration$$EnhancerBySpringCGLIB$$b3ac229b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:43:13.278 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.222 seconds (JVM running for 5.056)
+[INFO ] 2017-08-25 18:43:18.708 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-25 18:43:22.839 [http-nio-8080-exec-9] HomeController - Home controller
+[INFO ] 2017-08-25 18:43:22.840 [http-nio-8080-exec-9] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 18:43:22.853 [http-nio-8080-exec-9] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 18:43:28.873 [http-nio-8080-exec-1] RecursosController - Recursos controller
+[INFO ] 2017-08-25 18:47:15.709 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:47:16.154 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 92447 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:47:16.154 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:47:18.656 [main] AppConfiguration$$EnhancerBySpringCGLIB$$5d35910a - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:47:20.038 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.219 seconds (JVM running for 5.2)
+[INFO ] 2017-08-25 18:47:24.028 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-25 18:50:01.162 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:50:01.610 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 93874 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:50:01.611 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:50:04.378 [main] AppConfiguration$$EnhancerBySpringCGLIB$$5d35910a - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:50:05.585 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.319 seconds (JVM running for 5.302)
+[INFO ] 2017-08-25 18:50:10.594 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-25 18:51:23.528 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:51:24.058 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 94632 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:51:24.059 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:51:26.560 [main] AppConfiguration$$EnhancerBySpringCGLIB$$157e6c7b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:51:27.829 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.2 seconds (JVM running for 5.238)
+[INFO ] 2017-08-25 18:51:31.268 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-25 18:51:35.331 [http-nio-8080-exec-8] BotController - Bot controller
+[INFO ] 2017-08-25 18:52:25.118 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:52:25.646 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 95202 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:52:25.647 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:52:28.152 [main] AppConfiguration$$EnhancerBySpringCGLIB$$3f2f8305 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:52:29.391 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.168 seconds (JVM running for 5.143)
+[INFO ] 2017-08-25 18:52:38.314 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-25 18:53:59.815 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 18:54:00.323 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 96056 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 18:54:00.324 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 18:54:02.846 [main] AppConfiguration$$EnhancerBySpringCGLIB$$b3ac229b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 18:54:04.106 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.19 seconds (JVM running for 5.065)
+[INFO ] 2017-08-25 18:55:30.132 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-25 18:55:35.395 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-25 19:02:01.001 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:02:01.478 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 494 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:02:01.479 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:02:04.053 [main] AppConfiguration$$EnhancerBySpringCGLIB$$7b9839fa - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:02:05.276 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.182 seconds (JVM running for 5.205)
+[INFO ] 2017-08-25 19:02:11.424 [http-nio-8080-exec-1] LoginController - Login controller
+[INFO ] 2017-08-25 19:03:15.078 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:03:15.607 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 1285 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:03:15.608 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:03:18.137 [main] AppConfiguration$$EnhancerBySpringCGLIB$$b47702a8 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:03:19.324 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.142 seconds (JVM running for 4.979)
+[INFO ] 2017-08-25 19:03:32.438 [http-nio-8080-exec-1] LoginController - Login controller
+[INFO ] 2017-08-25 19:04:27.605 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:04:28.126 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 1957 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:04:28.127 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:04:30.829 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aeeb768a - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:04:32.095 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.39 seconds (JVM running for 5.369)
+[INFO ] 2017-08-25 19:04:37.025 [http-nio-8080-exec-1] LoginController - Login controller
+[INFO ] 2017-08-25 19:04:43.873 [http-nio-8080-exec-3] LoginController - Login controller
+[INFO ] 2017-08-25 19:04:56.857 [http-nio-8080-exec-5] HomeController - Home controller
+[INFO ] 2017-08-25 19:04:56.858 [http-nio-8080-exec-5] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:04:56.869 [http-nio-8080-exec-5] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:05:57.512 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:05:58.062 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 2717 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:05:58.063 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:06:00.632 [main] AppConfiguration$$EnhancerBySpringCGLIB$$7b9839fa - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:06:01.812 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.186 seconds (JVM running for 5.097)
+[INFO ] 2017-08-25 19:06:07.350 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-25 19:06:07.351 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:06:07.363 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:07:35.601 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:07:36.151 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 3668 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:07:36.152 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:07:38.740 [main] AppConfiguration$$EnhancerBySpringCGLIB$$e4245bf4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:07:40.091 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.388 seconds (JVM running for 5.218)
+[INFO ] 2017-08-25 19:07:45.283 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-25 19:07:45.283 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:07:45.297 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:07:49.766 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-25 19:07:55.992 [http-nio-8080-exec-9] BotController - Bot controller
+[INFO ] 2017-08-25 19:07:56.835 [http-nio-8080-exec-10] IntencoesController - Intencoes controller
+[INFO ] 2017-08-25 19:07:59.448 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-25 19:09:53.999 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-25 19:09:54.000 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:09:54.000 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:10:19.034 [http-nio-8080-exec-7] BotController - Bot controller
+[INFO ] 2017-08-25 19:10:38.646 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:10:39.294 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 5289 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:10:39.295 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:10:41.756 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:10:42.990 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.155 seconds (JVM running for 5.224)
+[INFO ] 2017-08-25 19:10:48.226 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-25 19:10:48.227 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:10:48.237 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:10:54.767 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-25 19:11:07.344 [http-nio-8080-exec-3] IntencoesController - Intencoes controller
+[INFO ] 2017-08-25 19:11:13.391 [http-nio-8080-exec-4] RecursosController - Recursos controller
+[INFO ] 2017-08-25 19:12:48.029 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:12:48.487 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 6440 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:12:48.487 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:12:51.042 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aeeb768a - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:12:52.271 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.139 seconds (JVM running for 5.098)
+[INFO ] 2017-08-25 19:12:58.177 [http-nio-8080-exec-1] LoginController - Login controller
+[INFO ] 2017-08-25 19:13:03.133 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-25 19:13:03.133 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:13:03.148 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:13:06.283 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-25 19:13:13.789 [http-nio-8080-exec-10] IntencoesController - Intencoes controller
+[INFO ] 2017-08-25 19:13:32.302 [http-nio-8080-exec-1] RecursosController - Recursos controller
+[INFO ] 2017-08-25 19:14:33.156 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-25 19:14:33.645 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson-2.local with PID 7389 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-25 19:14:33.646 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-25 19:14:36.084 [main] AppConfiguration$$EnhancerBySpringCGLIB$$e4245bf4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-25 19:14:37.260 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.001 seconds (JVM running for 4.859)
+[INFO ] 2017-08-25 19:14:41.543 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-25 19:14:46.282 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-25 19:14:47.730 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-25 19:14:47.730 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:14:47.743 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-25 19:14:51.591 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-25 19:15:01.039 [http-nio-8080-exec-5] IntencoesController - Intencoes controller
+[INFO ] 2017-08-25 19:15:02.048 [http-nio-8080-exec-7] RecursosController - Recursos controller

@@ -1,0 +1,22 @@
+[INFO ] 2017-09-17 16:10:27.502 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-09-17 16:10:27.965 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 1140 (/Users/rudsonkiyoshi/projetos/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/ia/webapp/service-webapp)
+[INFO ] 2017-09-17 16:10:27.965 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-09-17 16:10:53.411 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-09-17 16:10:53.755 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 1280 (/Users/rudsonkiyoshi/projetos/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/ia/webapp/service-webapp)
+[INFO ] 2017-09-17 16:10:53.755 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-09-17 16:11:33.631 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-09-17 16:11:33.980 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 1607 (/Users/rudsonkiyoshi/projetos/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/ia/webapp/service-webapp)
+[INFO ] 2017-09-17 16:11:33.980 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-09-17 16:11:37.671 [main] AppConfiguration$$EnhancerBySpringCGLIB$$96fb1e69 - init AppConfiguration redisTemplate
+[INFO ] 2017-09-17 16:11:39.143 [main] SpringBootWebApplication - Started SpringBootWebApplication in 5.416 seconds (JVM running for 6.191)
+[INFO ] 2017-09-17 16:11:47.531 [http-nio-8080-exec-1] LoginController - Login controller
+[INFO ] 2017-09-17 16:11:53.569 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-09-17 16:11:53.569 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-09-17 16:11:53.576 [http-nio-8080-exec-1] HomeDAOImpl - init loadHomeMessage
+[INFO ] 2017-09-17 16:12:08.035 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-09-17 16:12:08.036 [http-nio-8080-exec-2] IntencoesServiceImpl - init loadHomeMessage
+[INFO ] 2017-09-17 16:12:08.114 [http-nio-8080-exec-2] HomeDAOImpl - init loadHomeMessage
+[INFO ] 2017-09-17 16:12:27.890 [http-nio-8080-exec-3] IntencoesController - Intencoes controller
+[INFO ] 2017-09-17 16:12:29.544 [http-nio-8080-exec-6] HomeController - Home controller
+[INFO ] 2017-09-17 16:12:29.545 [http-nio-8080-exec-6] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-09-17 16:12:29.545 [http-nio-8080-exec-6] HomeDAOImpl - init loadHomeMessage

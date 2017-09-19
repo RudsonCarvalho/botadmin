@@ -1,0 +1,26 @@
+[INFO ] 2017-06-23 14:21:11.419 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2863 ms
+[INFO ] 2017-06-23 14:21:11.970 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7dc0f706: startup date [Fri Jun 23 14:21:08 BRT 2017]; root of context hierarchy
+[INFO ] 2017-06-23 14:21:12.049 [main] RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String br.com.template.servicewebapp.controller.HomeController.home(java.util.Map<java.lang.String, java.lang.Object>)
+[INFO ] 2017-06-23 14:21:12.057 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2017-06-23 14:21:12.057 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2017-06-23 14:21:12.104 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-06-23 14:21:12.104 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-06-23 14:21:12.152 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-06-23 14:21:38.491 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2017-06-23 14:21:38.515 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 23 ms
+[INFO ] 2017-06-23 15:22:28.003 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2049 ms
+[INFO ] 2017-06-23 15:38:41.859 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2750 ms
+[INFO ] 2017-06-23 15:42:31.109 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2155 ms
+[INFO ] 2017-06-23 15:44:57.118 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2075 ms
+[INFO ] 2017-06-23 15:49:12.221 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2238 ms
+[INFO ] 2017-06-23 15:50:19.441 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2102 ms
+[INFO ] 2017-06-23 15:52:34.130 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2119 ms
+[INFO ] 2017-06-23 15:52:34.792 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7494f96a: startup date [Fri Jun 23 15:52:32 BRT 2017]; root of context hierarchy
+[INFO ] 2017-06-23 15:52:34.870 [main] RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String br.com.template.servicewebapp.controller.HomeController.home(java.util.Map<java.lang.String, java.lang.Object>)
+[INFO ] 2017-06-23 15:52:34.875 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2017-06-23 15:52:34.875 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2017-06-23 15:52:34.917 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-06-23 15:52:34.917 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-06-23 15:52:34.970 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-06-23 15:52:48.141 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2017-06-23 15:52:48.168 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 27 ms

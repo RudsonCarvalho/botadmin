@@ -1,0 +1,10 @@
+[INFO ] 2017-08-07 18:36:54.739 [localhost-startStop-1] ContextLoader - Root WebApplicationContext: initialization completed in 2493 ms
+[INFO ] 2017-08-07 18:36:55.552 [main] RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@ae13544: startup date [Mon Aug 07 18:36:52 BRT 2017]; root of context hierarchy
+[INFO ] 2017-08-07 18:36:55.891 [main] RequestMappingHandlerMapping - Mapped "{[/]}" onto public java.lang.String br.com.template.servicewebapp.controller.HomeController.home(java.util.Map<java.lang.String, java.lang.Object>)
+[INFO ] 2017-08-07 18:36:55.896 [main] RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[INFO ] 2017-08-07 18:36:55.896 [main] RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[INFO ] 2017-08-07 18:36:55.945 [main] SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-08-07 18:36:55.946 [main] SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-08-07 18:36:56.017 [main] SimpleUrlHandlerMapping - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[INFO ] 2017-08-07 18:37:10.202 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+[INFO ] 2017-08-07 18:37:10.224 [http-nio-8080-exec-1] DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 21 ms

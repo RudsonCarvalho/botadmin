@@ -1,0 +1,5 @@
+[INFO ] 2017-08-10 11:23:13.962 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-10 11:23:14.779 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 36704 (/Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/Template2_redis/service-webapp)
+[INFO ] 2017-08-10 11:23:14.780 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-10 11:23:17.375 [main] AppConfiguration$$EnhancerBySpringCGLIB$$85f7035d - init AppConfiguration redisTemplate
+[INFO ] 2017-08-10 11:23:18.526 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.342 seconds (JVM running for 5.481)

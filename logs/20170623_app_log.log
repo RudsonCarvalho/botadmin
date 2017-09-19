@@ -1,0 +1,62 @@
+[INFO ] 2017-06-23 14:21:08.001 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 14:21:08.480 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 55197 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 14:21:08.481 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 14:21:12.467 [main] SpringBootWebApplication - Started SpringBootWebApplication in 4.354 seconds (JVM running for 5.213)
+[INFO ] 2017-06-23 14:21:38.554 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-06-23 14:21:38.554 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-06-23 14:21:38.555 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-06-23 14:21:38.555 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-06-23 14:21:38.555 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-06-23 14:58:07.284 [http-nio-8080-exec-5] HomeController - This is an info message
+[WARN ] 2017-06-23 14:58:07.284 [http-nio-8080-exec-5] HomeController - This is a warn message
+[ERROR] 2017-06-23 14:58:07.285 [http-nio-8080-exec-5] HomeController - This is an error message
+[INFO ] 2017-06-23 14:58:07.285 [http-nio-8080-exec-5] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-06-23 14:58:07.285 [http-nio-8080-exec-5] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-06-23 14:58:08.902 [http-nio-8080-exec-8] HomeController - This is an info message
+[WARN ] 2017-06-23 14:58:08.902 [http-nio-8080-exec-8] HomeController - This is a warn message
+[ERROR] 2017-06-23 14:58:08.902 [http-nio-8080-exec-8] HomeController - This is an error message
+[INFO ] 2017-06-23 14:58:08.902 [http-nio-8080-exec-8] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-06-23 14:58:08.903 [http-nio-8080-exec-8] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-06-23 15:22:25.303 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:22:25.831 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 72735 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 15:22:25.834 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 15:26:57.674 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:26:57.680 [main] SpringBootWebApplication - init main iniRedis
+[INFO ] 2017-06-23 15:36:14.326 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:36:14.331 [main] SpringBootWebApplication - init main iniRedis
+[INFO ] 2017-06-23 15:37:58.934 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:37:58.941 [main] SpringBootWebApplication - init main iniRedis
+[INFO ] 2017-06-23 15:38:38.653 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:38:39.047 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 77348 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 15:38:39.048 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 15:38:42.213 [main] AppConfiguration$$EnhancerBySpringCGLIB$$de14b22 - init AppConfiguration redisTemplate
+[INFO ] 2017-06-23 15:38:42.227 [main] AppConfiguration$$EnhancerBySpringCGLIB$$de14b22 - init AppConfiguration jedisConnectionFactory
+[INFO ] 2017-06-23 15:42:27.997 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:42:28.754 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 78423 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 15:42:28.754 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 15:42:31.368 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d4f6b774 - init AppConfiguration redisTemplate
+[INFO ] 2017-06-23 15:42:31.375 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d4f6b774 - init AppConfiguration jedisConnectionFactory
+[INFO ] 2017-06-23 15:44:54.596 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:44:54.956 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 79119 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 15:44:54.961 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 15:44:57.376 [main] AppConfiguration$$EnhancerBySpringCGLIB$$c98a03c2 - init AppConfiguration redisTemplate
+[INFO ] 2017-06-23 15:44:57.384 [main] AppConfiguration$$EnhancerBySpringCGLIB$$c98a03c2 - init AppConfiguration jedisConnectionFactory
+[INFO ] 2017-06-23 15:49:09.542 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:49:09.904 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 80334 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 15:49:09.905 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 15:49:12.627 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-06-23 15:49:12.638 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration jedisConnectionFactory
+[INFO ] 2017-06-23 15:50:16.908 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:50:17.267 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 80651 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 15:50:17.268 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 15:50:19.745 [main] AppConfiguration$$EnhancerBySpringCGLIB$$9390c326 - init AppConfiguration redisTemplate
+[INFO ] 2017-06-23 15:52:31.522 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-06-23 15:52:31.922 [main] SpringBootWebApplication - Starting SpringBootWebApplication on mbp-de-rudson-2.bs.br.bsch with PID 81278 (/Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp/target/classes started by rksc in /Users/rksc/Ibm/Projetos/Templates/Spring/service-webapp)
+[INFO ] 2017-06-23 15:52:31.926 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-06-23 15:52:34.379 [main] AppConfiguration$$EnhancerBySpringCGLIB$$b277e86e - init AppConfiguration redisTemplate
+[INFO ] 2017-06-23 15:52:35.616 [main] SpringBootWebApplication - Started SpringBootWebApplication in 3.971 seconds (JVM running for 4.932)
+[INFO ] 2017-06-23 15:52:48.219 [http-nio-8080-exec-1] HomeController - This is an info message
+[WARN ] 2017-06-23 15:52:48.224 [http-nio-8080-exec-1] HomeController - This is a warn message
+[ERROR] 2017-06-23 15:52:48.225 [http-nio-8080-exec-1] HomeController - This is an error message
+[INFO ] 2017-06-23 15:52:48.225 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-06-23 15:52:48.239 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage

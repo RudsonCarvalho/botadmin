@@ -1,0 +1,844 @@
+[INFO ] 2017-08-28 11:46:25.347 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 11:46:25.735 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 8195 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 11:46:25.736 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 11:46:27.548 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 11:46:28.388 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.925 seconds (JVM running for 3.895)
+[INFO ] 2017-08-28 11:46:43.189 [http-nio-8080-exec-1] LoginController - Login controller
+[INFO ] 2017-08-28 11:46:45.613 [http-nio-8080-exec-10] HomeController - Home controller
+[INFO ] 2017-08-28 11:46:45.613 [http-nio-8080-exec-10] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 11:46:45.620 [http-nio-8080-exec-10] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 11:48:15.537 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 11:48:15.835 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 8225 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 11:48:15.835 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 11:48:17.381 [main] AppConfiguration$$EnhancerBySpringCGLIB$$91ffd998 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 11:48:18.130 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.508 seconds (JVM running for 3.176)
+[INFO ] 2017-08-28 12:00:18.089 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:00:18.090 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:00:18.097 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:03:49.536 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:03:49.834 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 8611 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:03:49.834 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:03:51.700 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aeeb768a - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:03:52.520 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.902 seconds (JVM running for 3.792)
+[INFO ] 2017-08-28 12:05:50.003 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:05:50.004 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:05:50.010 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:21:31.238 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:21:31.544 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 8848 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:21:31.545 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:21:33.126 [main] AppConfiguration$$EnhancerBySpringCGLIB$$2acb423 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:21:33.880 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.554 seconds (JVM running for 3.431)
+[INFO ] 2017-08-28 12:21:39.257 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:21:39.257 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:21:39.263 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:23:41.250 [http-nio-8080-exec-4] HomeController - Home controller
+[INFO ] 2017-08-28 12:23:41.250 [http-nio-8080-exec-4] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:23:41.251 [http-nio-8080-exec-4] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:29:50.382 [http-nio-8080-exec-4] HomeController - Home controller
+[INFO ] 2017-08-28 12:29:50.382 [http-nio-8080-exec-4] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:29:50.382 [http-nio-8080-exec-4] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:29:52.908 [http-nio-8080-exec-7] HomeController - Home controller
+[INFO ] 2017-08-28 12:29:52.909 [http-nio-8080-exec-7] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:29:52.909 [http-nio-8080-exec-7] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:30:57.632 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:30:57.933 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9007 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:30:57.934 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:30:59.500 [main] AppConfiguration$$EnhancerBySpringCGLIB$$e4245bf4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:31:00.275 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.554 seconds (JVM running for 3.337)
+[INFO ] 2017-08-28 12:31:08.365 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:31:08.365 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:31:08.371 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:38:34.875 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:38:35.172 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9110 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:38:35.173 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:38:36.768 [main] AppConfiguration$$EnhancerBySpringCGLIB$$2acb423 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:38:37.538 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.58 seconds (JVM running for 3.383)
+[INFO ] 2017-08-28 12:38:44.489 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:38:44.489 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:38:44.496 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:45:23.365 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:45:23.671 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9200 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:45:23.671 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:45:25.327 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d1072a21 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:45:26.075 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.622 seconds (JVM running for 3.422)
+[INFO ] 2017-08-28 12:45:34.085 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:45:34.085 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:45:34.091 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:47:34.772 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:47:35.084 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9234 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:47:35.085 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:47:36.782 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:47:37.597 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.739 seconds (JVM running for 3.535)
+[INFO ] 2017-08-28 12:47:42.203 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:47:42.203 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:47:42.210 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:51:12.522 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:51:12.826 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9279 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:51:12.826 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:51:14.374 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:51:15.126 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.519 seconds (JVM running for 3.356)
+[INFO ] 2017-08-28 12:52:34.061 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:52:34.061 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:52:34.067 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:58:17.876 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 12:58:18.187 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9372 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 12:58:18.188 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 12:58:19.777 [main] AppConfiguration$$EnhancerBySpringCGLIB$$e4245bf4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 12:58:20.561 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.596 seconds (JVM running for 3.444)
+[INFO ] 2017-08-28 12:58:34.641 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 12:58:34.641 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 12:58:34.647 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:01:54.868 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:01:55.175 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9426 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:01:55.175 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:01:56.922 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:01:57.800 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.841 seconds (JVM running for 3.63)
+[INFO ] 2017-08-28 13:02:11.766 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:02:11.766 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:02:11.773 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:03:20.533 [http-nio-8080-exec-8] HomeController - Home controller
+[INFO ] 2017-08-28 13:03:20.533 [http-nio-8080-exec-8] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:03:20.534 [http-nio-8080-exec-8] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:06:39.017 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:06:39.317 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9487 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:06:39.317 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:06:40.888 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:06:41.666 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.564 seconds (JVM running for 3.384)
+[INFO ] 2017-08-28 13:06:47.809 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:06:47.809 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:06:47.815 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:08:07.116 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:08:07.420 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9509 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:08:07.420 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:08:09.017 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:08:09.791 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.583 seconds (JVM running for 3.234)
+[INFO ] 2017-08-28 13:08:18.306 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:08:18.306 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:08:18.312 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:10:34.357 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:10:34.666 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9540 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:10:34.667 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:10:36.229 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:10:37.032 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.587 seconds (JVM running for 3.384)
+[INFO ] 2017-08-28 13:10:49.206 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:10:49.206 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:10:49.212 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:13:57.765 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:13:58.080 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9586 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:13:58.080 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:13:59.772 [main] AppConfiguration$$EnhancerBySpringCGLIB$$91ffd998 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:14:00.570 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.717 seconds (JVM running for 3.495)
+[INFO ] 2017-08-28 13:14:16.634 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:14:16.635 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:14:16.642 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:15:12.606 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:15:12.920 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9604 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:15:12.920 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:15:14.650 [main] AppConfiguration$$EnhancerBySpringCGLIB$$ddd4f24 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:15:15.453 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.76 seconds (JVM running for 3.404)
+[INFO ] 2017-08-28 13:15:21.160 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:15:21.160 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:15:21.167 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:17:17.604 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:17:17.917 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9629 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:17:17.918 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:17:19.555 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:17:20.335 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.644 seconds (JVM running for 3.47)
+[INFO ] 2017-08-28 13:17:24.029 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:17:24.029 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:17:24.035 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:18:36.218 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:18:36.539 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9649 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:18:36.539 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:18:38.275 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d1072a21 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:18:39.060 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.751 seconds (JVM running for 3.409)
+[INFO ] 2017-08-28 13:18:48.791 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:18:48.791 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:18:48.798 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:19:24.445 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:19:24.750 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9660 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:19:24.751 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:19:26.352 [main] AppConfiguration$$EnhancerBySpringCGLIB$$18642906 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:19:27.102 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.568 seconds (JVM running for 3.41)
+[INFO ] 2017-08-28 13:19:32.758 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 13:19:32.759 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:19:32.765 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:20:27.783 [http-nio-8080-exec-8] BotController - Bot controller
+[INFO ] 2017-08-28 13:20:34.412 [http-nio-8080-exec-9] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 13:20:35.450 [http-nio-8080-exec-10] RecursosController - Recursos controller
+[INFO ] 2017-08-28 13:20:36.431 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 13:20:37.830 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 13:20:38.955 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-28 13:20:38.955 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:20:38.955 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:20:41.246 [http-nio-8080-exec-7] BotController - Bot controller
+[INFO ] 2017-08-28 13:20:42.202 [http-nio-8080-exec-8] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 13:20:43.476 [http-nio-8080-exec-9] RecursosController - Recursos controller
+[INFO ] 2017-08-28 13:20:44.521 [http-nio-8080-exec-10] HomeController - Home controller
+[INFO ] 2017-08-28 13:20:44.522 [http-nio-8080-exec-10] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:20:44.522 [http-nio-8080-exec-10] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 13:22:24.508 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 13:22:24.918 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 9697 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 13:22:24.919 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 13:22:26.538 [main] AppConfiguration$$EnhancerBySpringCGLIB$$d1072a21 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 13:22:27.306 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.664 seconds (JVM running for 3.545)
+[INFO ] 2017-08-28 15:58:00.338 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 15:58:00.670 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 11719 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 15:58:00.670 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 15:58:02.268 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 15:58:03.033 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.595 seconds (JVM running for 3.433)
+[INFO ] 2017-08-28 15:58:07.453 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 15:58:07.453 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 15:58:07.459 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 15:58:59.270 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 15:58:59.571 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 11735 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 15:58:59.571 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 15:59:01.170 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 15:59:01.931 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.571 seconds (JVM running for 3.211)
+[INFO ] 2017-08-28 15:59:05.771 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 15:59:05.771 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 15:59:05.777 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 16:22:30.242 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:22:30.559 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12042 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:22:30.559 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:22:32.148 [main] AppConfiguration$$EnhancerBySpringCGLIB$$ddd4f24 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:22:32.933 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.601 seconds (JVM running for 3.462)
+[INFO ] 2017-08-28 16:22:37.769 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:25:11.359 [http-nio-8080-exec-8] BotController - Bot controller
+[INFO ] 2017-08-28 16:29:37.640 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:29:37.939 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12140 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:29:37.939 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:29:39.530 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:29:40.287 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.564 seconds (JVM running for 3.416)
+[INFO ] 2017-08-28 16:29:45.471 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:31:54.215 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:31:54.519 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12170 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:31:54.520 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:31:56.143 [main] AppConfiguration$$EnhancerBySpringCGLIB$$ddd4f24 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:31:56.911 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.609 seconds (JVM running for 3.481)
+[INFO ] 2017-08-28 16:32:02.161 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:33:37.038 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:33:37.345 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12195 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:33:37.346 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:33:38.933 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:33:39.668 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.539 seconds (JVM running for 3.19)
+[INFO ] 2017-08-28 16:33:43.021 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:33:51.204 [http-nio-8080-exec-3] BotController - Bot controller
+[INFO ] 2017-08-28 16:34:58.847 [http-nio-8080-exec-10] BotController - Bot controller
+[INFO ] 2017-08-28 16:35:00.830 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 16:35:04.695 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-28 16:35:08.271 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 16:35:11.108 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:35:15.024 [http-nio-8080-exec-3] BotController - Bot controller
+[INFO ] 2017-08-28 16:35:17.800 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 16:37:53.639 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:37:53.939 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12247 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:37:53.940 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:37:55.623 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:37:56.379 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.656 seconds (JVM running for 3.484)
+[INFO ] 2017-08-28 16:38:01.145 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:46:06.010 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:46:06.315 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12356 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:46:06.315 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:46:07.890 [main] AppConfiguration$$EnhancerBySpringCGLIB$$e4245bf4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:46:08.635 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.537 seconds (JVM running for 3.365)
+[INFO ] 2017-08-28 16:46:13.705 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:46:20.086 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-28 16:46:31.114 [http-nio-8080-exec-9] BotController - Bot controller
+[INFO ] 2017-08-28 16:47:10.898 [http-nio-8080-exec-5] HomeController - Home controller
+[INFO ] 2017-08-28 16:47:10.898 [http-nio-8080-exec-5] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 16:47:10.906 [http-nio-8080-exec-5] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 16:47:14.645 [http-nio-8080-exec-9] BotController - Bot controller
+[INFO ] 2017-08-28 16:47:50.164 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:47:50.473 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12379 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:47:50.473 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:47:52.084 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:47:52.855 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.601 seconds (JVM running for 3.258)
+[INFO ] 2017-08-28 16:47:56.908 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:48:01.216 [http-nio-8080-exec-7] BotController - Bot controller
+[INFO ] 2017-08-28 16:48:03.806 [http-nio-8080-exec-9] BotController - Bot controller
+[INFO ] 2017-08-28 16:48:11.783 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:54:14.424 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:54:14.732 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12469 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:54:14.732 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:54:16.334 [main] AppConfiguration$$EnhancerBySpringCGLIB$$91ffd998 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:54:17.104 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.588 seconds (JVM running for 3.425)
+[INFO ] 2017-08-28 16:54:23.161 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 16:59:06.233 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 16:59:06.559 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 12539 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 16:59:06.560 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 16:59:08.143 [main] AppConfiguration$$EnhancerBySpringCGLIB$$91ffd998 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 16:59:08.930 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.597 seconds (JVM running for 3.269)
+[INFO ] 2017-08-28 16:59:14.451 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 17:05:44.929 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 17:05:45.257 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 14288 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 17:05:45.257 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 17:05:47.035 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 17:05:47.848 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.82 seconds (JVM running for 3.677)
+[INFO ] 2017-08-28 17:06:00.678 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 17:07:33.013 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 17:07:33.327 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 14314 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 17:07:33.327 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 17:07:34.905 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 17:07:35.671 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.57 seconds (JVM running for 3.242)
+[INFO ] 2017-08-28 17:07:40.607 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 17:11:17.089 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 17:11:17.392 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 14360 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 17:11:17.393 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 17:11:19.035 [main] AppConfiguration$$EnhancerBySpringCGLIB$$2acb423 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 17:11:19.800 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.627 seconds (JVM running for 3.488)
+[INFO ] 2017-08-28 17:11:24.371 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 17:13:42.618 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 17:13:42.933 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 14397 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 17:13:42.933 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 17:13:44.534 [main] AppConfiguration$$EnhancerBySpringCGLIB$$e4245bf4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 17:13:45.297 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.584 seconds (JVM running for 3.388)
+[INFO ] 2017-08-28 17:13:50.963 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 17:14:04.535 [http-nio-8080-exec-3] BotController - Bot controller
+[INFO ] 2017-08-28 17:26:14.525 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 17:26:14.869 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 14566 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 17:26:14.870 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 17:26:16.462 [main] AppConfiguration$$EnhancerBySpringCGLIB$$419f3b20 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 17:26:17.229 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.625 seconds (JVM running for 3.442)
+[INFO ] 2017-08-28 17:26:22.448 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 17:26:22.449 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 17:26:22.457 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 17:26:27.194 [http-nio-8080-exec-7] BotController - Bot controller
+[INFO ] 2017-08-28 17:26:32.178 [http-nio-8080-exec-8] BotController - Bot controller
+[INFO ] 2017-08-28 17:26:33.728 [http-nio-8080-exec-9] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 17:31:05.373 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 17:31:05.715 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 14632 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 17:31:05.715 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 17:31:07.320 [main] AppConfiguration$$EnhancerBySpringCGLIB$$e4245bf4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 17:31:08.150 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.687 seconds (JVM running for 3.486)
+[INFO ] 2017-08-28 17:31:10.167 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 17:31:23.634 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 17:33:21.504 [http-nio-8080-exec-7] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 17:40:11.634 [http-nio-8080-exec-9] RecursosController - Recursos controller
+[INFO ] 2017-08-28 17:43:33.380 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 17:43:33.714 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 14809 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 17:43:33.714 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 17:43:35.350 [main] AppConfiguration$$EnhancerBySpringCGLIB$$91ffd998 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 17:43:36.103 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.639 seconds (JVM running for 3.458)
+[INFO ] 2017-08-28 17:43:42.054 [http-nio-8080-exec-1] RecursosController - Recursos controller
+[INFO ] 2017-08-28 17:45:02.152 [http-nio-8080-exec-3] BotController - Bot controller
+[INFO ] 2017-08-28 18:57:18.378 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 18:57:18.717 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15230 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 18:57:18.718 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 18:57:20.291 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 18:57:21.059 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.586 seconds (JVM running for 3.374)
+[INFO ] 2017-08-28 18:57:26.743 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 18:57:31.383 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-28 18:58:56.168 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 18:58:56.498 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15254 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 18:58:56.499 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 18:58:58.119 [main] AppConfiguration$$EnhancerBySpringCGLIB$$b277e86e - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 18:58:58.897 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.642 seconds (JVM running for 3.287)
+[INFO ] 2017-08-28 18:59:03.054 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 18:59:06.941 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:01:23.622 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:01:23.953 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15286 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:01:23.953 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:01:25.525 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:01:26.303 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.594 seconds (JVM running for 3.376)
+[INFO ] 2017-08-28 19:01:33.232 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 19:01:33.232 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 19:01:36.779 [http-nio-8080-exec-3] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:05:06.589 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:05:06.915 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15335 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:05:06.915 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:05:08.445 [main] AppConfiguration$$EnhancerBySpringCGLIB$$91ffd998 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:05:09.243 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.569 seconds (JVM running for 3.332)
+[INFO ] 2017-08-28 19:05:30.472 [http-nio-8080-exec-1] LoginController - Login controller
+[INFO ] 2017-08-28 19:05:30.738 [http-nio-8080-exec-2] LoginController - Login controller
+[INFO ] 2017-08-28 19:05:35.628 [http-nio-8080-exec-5] HomeController - Home controller
+[INFO ] 2017-08-28 19:05:35.628 [http-nio-8080-exec-5] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:05:35.635 [http-nio-8080-exec-5] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:06:01.988 [http-nio-8080-exec-10] BotController - Bot controller
+[INFO ] 2017-08-28 19:06:12.705 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 19:06:32.259 [http-nio-8080-exec-2] RecursosController - Recursos controller
+[INFO ] 2017-08-28 19:06:41.520 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 19:06:46.835 [http-nio-8080-exec-7] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:06:52.583 [http-nio-8080-exec-6] HomeController - Home controller
+[INFO ] 2017-08-28 19:06:52.583 [http-nio-8080-exec-6] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:06:52.584 [http-nio-8080-exec-6] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:07:50.707 [http-nio-8080-exec-9] BotController - Bot controller
+[INFO ] 2017-08-28 19:07:54.848 [http-nio-8080-exec-10] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:23:11.928 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:23:12.253 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15581 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:23:12.253 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:23:13.802 [main] AppConfiguration$$EnhancerBySpringCGLIB$$2bf15690 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:23:14.566 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.557 seconds (JVM running for 3.372)
+[INFO ] 2017-08-28 19:23:26.469 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:28:14.023 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:28:14.353 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15646 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:28:14.353 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:28:15.933 [main] AppConfiguration$$EnhancerBySpringCGLIB$$abb1b98 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:28:16.687 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.575 seconds (JVM running for 3.412)
+[INFO ] 2017-08-28 19:28:21.013 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 19:28:21.014 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:28:21.021 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:28:23.835 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 19:28:26.055 [http-nio-8080-exec-3] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:29:38.232 [http-nio-8080-exec-6] BotController - Bot controller
+[INFO ] 2017-08-28 19:29:40.232 [http-nio-8080-exec-9] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:30:40.017 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:30:40.355 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15684 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:30:40.355 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:30:41.921 [main] AppConfiguration$$EnhancerBySpringCGLIB$$fca0f44e - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:30:42.687 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.589 seconds (JVM running for 3.41)
+[INFO ] 2017-08-28 19:30:53.789 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 19:30:56.768 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:31:06.782 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-28 19:31:06.782 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:31:06.788 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:31:11.475 [http-nio-8080-exec-7] BotController - Bot controller
+[INFO ] 2017-08-28 19:31:15.499 [http-nio-8080-exec-8] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:34:49.700 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:34:50.027 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15740 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:34:50.028 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:34:51.637 [main] AppConfiguration$$EnhancerBySpringCGLIB$$6eb90a90 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:34:52.407 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.626 seconds (JVM running for 3.433)
+[INFO ] 2017-08-28 19:34:58.072 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 19:35:01.161 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:35:19.485 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:41:36.902 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:41:37.232 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15827 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:41:37.233 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:41:38.806 [main] AppConfiguration$$EnhancerBySpringCGLIB$$abb1b98 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:41:39.577 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.59 seconds (JVM running for 3.395)
+[INFO ] 2017-08-28 19:41:44.037 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 19:41:47.532 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:42:36.270 [http-nio-8080-exec-5] HomeController - Home controller
+[INFO ] 2017-08-28 19:42:36.270 [http-nio-8080-exec-5] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:42:36.277 [http-nio-8080-exec-5] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:42:38.121 [http-nio-8080-exec-6] BotController - Bot controller
+[INFO ] 2017-08-28 19:42:42.055 [http-nio-8080-exec-7] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:48:18.347 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:48:18.680 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15921 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:48:18.680 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:48:20.264 [main] AppConfiguration$$EnhancerBySpringCGLIB$$abb1b98 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:48:21.039 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.604 seconds (JVM running for 3.435)
+[INFO ] 2017-08-28 19:48:27.655 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 19:48:30.985 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:48:41.065 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 19:48:45.472 [http-nio-8080-exec-7] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 19:54:08.938 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 19:54:09.260 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 15995 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 19:54:09.260 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 19:54:10.873 [main] AppConfiguration$$EnhancerBySpringCGLIB$$2bf15690 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 19:54:11.695 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.674 seconds (JVM running for 3.523)
+[INFO ] 2017-08-28 19:54:45.886 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 19:54:45.886 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:54:45.892 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 19:54:52.354 [http-nio-8080-exec-3] BotController - Bot controller
+[INFO ] 2017-08-28 19:54:54.894 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:01:50.004 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 20:01:50.343 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16098 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 20:01:50.344 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 20:01:51.976 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 20:01:52.761 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.666 seconds (JVM running for 3.452)
+[INFO ] 2017-08-28 20:01:57.461 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 20:02:00.812 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:02:03.439 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 20:02:19.655 [http-nio-8080-exec-6] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:05:32.506 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 20:05:32.824 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16152 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 20:05:32.824 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 20:05:34.412 [main] AppConfiguration$$EnhancerBySpringCGLIB$$18642906 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 20:05:35.189 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.602 seconds (JVM running for 3.405)
+[INFO ] 2017-08-28 20:05:43.021 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 20:05:46.412 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:06:12.754 [http-nio-8080-exec-5] HomeController - Home controller
+[INFO ] 2017-08-28 20:06:12.754 [http-nio-8080-exec-5] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 20:06:12.763 [http-nio-8080-exec-5] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 20:06:15.556 [http-nio-8080-exec-6] BotController - Bot controller
+[INFO ] 2017-08-28 20:06:17.803 [http-nio-8080-exec-7] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:07:13.208 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 20:07:13.536 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16174 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 20:07:13.537 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 20:07:15.132 [main] AppConfiguration$$EnhancerBySpringCGLIB$$fca0f44e - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 20:07:15.942 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.647 seconds (JVM running for 3.324)
+[INFO ] 2017-08-28 20:07:20.026 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 20:07:20.026 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 20:07:20.032 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 20:07:25.384 [http-nio-8080-exec-6] BotController - Bot controller
+[INFO ] 2017-08-28 20:07:27.627 [http-nio-8080-exec-7] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:07:37.818 [http-nio-8080-exec-8] HomeController - Home controller
+[INFO ] 2017-08-28 20:07:37.818 [http-nio-8080-exec-8] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 20:07:37.818 [http-nio-8080-exec-8] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 20:07:40.091 [http-nio-8080-exec-10] BotController - Bot controller
+[INFO ] 2017-08-28 20:07:43.123 [http-nio-8080-exec-1] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:08:59.567 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 20:08:59.888 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16200 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 20:08:59.889 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 20:09:01.482 [main] AppConfiguration$$EnhancerBySpringCGLIB$$993724b9 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 20:09:02.255 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.602 seconds (JVM running for 3.252)
+[INFO ] 2017-08-28 20:09:06.041 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 20:09:08.922 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:11:13.268 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 20:11:13.593 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16227 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 20:11:13.594 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 20:11:15.185 [main] AppConfiguration$$EnhancerBySpringCGLIB$$a5ed41be - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 20:11:15.941 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.591 seconds (JVM running for 3.399)
+[INFO ] 2017-08-28 20:11:20.661 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 20:11:23.814 [http-nio-8080-exec-6] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:11:51.973 [http-nio-8080-exec-8] BotController - Bot controller
+[INFO ] 2017-08-28 20:13:53.072 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 20:13:54.480 [http-nio-8080-exec-4] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 20:14:03.231 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 20:14:05.784 [http-nio-8080-exec-6] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:19:28.339 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 20:19:28.660 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16338 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 20:19:28.660 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 20:19:30.242 [main] AppConfiguration$$EnhancerBySpringCGLIB$$fca0f44e - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 20:19:30.983 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.563 seconds (JVM running for 3.369)
+[INFO ] 2017-08-28 20:19:56.689 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 20:20:43.036 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-28 22:17:36.117 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:17:36.463 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16680 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:17:36.463 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:17:38.062 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:17:38.839 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.624 seconds (JVM running for 3.467)
+[INFO ] 2017-08-28 22:17:50.746 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 22:28:37.773 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:28:38.109 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16835 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:28:38.110 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:28:39.772 [main] AppConfiguration$$EnhancerBySpringCGLIB$$6eb90a90 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:28:40.545 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.678 seconds (JVM running for 3.475)
+[INFO ] 2017-08-28 22:28:47.716 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:28:47.716 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:28:47.722 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:28:50.016 [http-nio-8080-exec-10] BotController - Bot controller
+[INFO ] 2017-08-28 22:28:51.851 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 22:28:55.357 [http-nio-8080-exec-7] BotController - Bot controller editar
+[INFO ] 2017-08-28 22:31:28.650 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:31:28.973 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16874 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:31:28.974 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:31:30.540 [main] AppConfiguration$$EnhancerBySpringCGLIB$$68ce7d38 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:31:31.319 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.587 seconds (JVM running for 3.442)
+[INFO ] 2017-08-28 22:31:38.238 [http-nio-8080-exec-1] BotController - Bot controller editar
+[INFO ] 2017-08-28 22:33:50.267 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:33:50.597 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16906 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:33:50.597 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:33:52.165 [main] AppConfiguration$$EnhancerBySpringCGLIB$$6eb90a90 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:33:52.953 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.599 seconds (JVM running for 3.462)
+[INFO ] 2017-08-28 22:33:58.011 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 22:34:01.098 [http-nio-8080-exec-3] BotController - Bot controller editar
+[INFO ] 2017-08-28 22:34:04.967 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-28 22:34:07.134 [http-nio-8080-exec-5] BotController - Bot controller editar
+[INFO ] 2017-08-28 22:34:12.485 [http-nio-8080-exec-6] BotController - Bot controller
+[INFO ] 2017-08-28 22:34:14.028 [http-nio-8080-exec-7] BotController - Bot controller editar
+[INFO ] 2017-08-28 22:34:16.457 [http-nio-8080-exec-8] BotController - Bot controller
+[INFO ] 2017-08-28 22:35:54.103 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:35:54.424 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16931 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:35:54.424 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:35:56.022 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aa9e78fa - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:35:56.789 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.605 seconds (JVM running for 3.415)
+[INFO ] 2017-08-28 22:36:01.137 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:36:01.138 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:36:01.144 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:36:03.291 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 22:36:06.235 [http-nio-8080-exec-3] BotController - Bot controller remover
+[INFO ] 2017-08-28 22:36:11.747 [http-nio-8080-exec-4] BotController - Bot controller
+[INFO ] 2017-08-28 22:36:16.000 [http-nio-8080-exec-5] BotController - Bot controller editar
+[INFO ] 2017-08-28 22:36:18.150 [http-nio-8080-exec-6] BotController - Bot controller
+[INFO ] 2017-08-28 22:38:03.927 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:38:04.252 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16963 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:38:04.253 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:38:05.845 [main] AppConfiguration$$EnhancerBySpringCGLIB$$ae42df80 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:38:06.606 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.591 seconds (JVM running for 3.369)
+[INFO ] 2017-08-28 22:38:11.269 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:11.269 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:11.275 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:19.833 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:19.833 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:19.833 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:20.863 [http-nio-8080-exec-4] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:20.863 [http-nio-8080-exec-4] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:20.864 [http-nio-8080-exec-4] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:21.715 [http-nio-8080-exec-6] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:21.715 [http-nio-8080-exec-6] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:21.716 [http-nio-8080-exec-6] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:22.430 [http-nio-8080-exec-8] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:22.431 [http-nio-8080-exec-8] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:22.431 [http-nio-8080-exec-8] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:24.410 [http-nio-8080-exec-10] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:24.410 [http-nio-8080-exec-10] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:24.410 [http-nio-8080-exec-10] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:26.098 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:26.099 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:26.099 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:27.991 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:27.991 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:27.991 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:29.717 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:29.718 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:29.718 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:40.313 [http-nio-8080-exec-4] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:40.313 [http-nio-8080-exec-4] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:40.313 [http-nio-8080-exec-4] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:40.367 [http-nio-8080-exec-10] HomeController - Home controller
+[INFO ] 2017-08-28 22:38:40.367 [http-nio-8080-exec-10] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:38:40.368 [http-nio-8080-exec-10] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:39:15.017 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:39:15.355 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 16979 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:39:15.355 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:39:16.944 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aa9e78fa - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:39:17.738 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.635 seconds (JVM running for 3.293)
+[INFO ] 2017-08-28 22:39:21.476 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:39:21.477 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:39:21.483 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:39:25.846 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 22:39:25.846 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:39:25.846 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:39:29.880 [http-nio-8080-exec-6] HomeController - Home controller
+[INFO ] 2017-08-28 22:39:29.880 [http-nio-8080-exec-6] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:39:29.880 [http-nio-8080-exec-6] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:46:03.946 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:46:04.276 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17069 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:46:04.276 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:46:05.879 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8618d414 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:46:06.668 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.64 seconds (JVM running for 3.484)
+[INFO ] 2017-08-28 22:46:13.480 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:46:13.480 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:46:13.488 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:47:59.664 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:47:59.997 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17104 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:47:59.997 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:48:01.628 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aa9e78fa - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:48:02.385 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.628 seconds (JVM running for 3.274)
+[INFO ] 2017-08-28 22:48:05.377 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:48:05.377 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:48:05.384 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:48:10.430 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 22:48:10.430 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:48:10.430 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:48:56.927 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:48:57.259 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17115 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:48:57.260 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:48:58.852 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aa9e78fa - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:48:59.609 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.599 seconds (JVM running for 3.272)
+[INFO ] 2017-08-28 22:49:03.163 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:49:03.163 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:49:03.170 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:49:07.363 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 22:49:07.363 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:49:07.363 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:50:15.089 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:50:15.416 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17134 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:50:15.417 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:50:16.984 [main] AppConfiguration$$EnhancerBySpringCGLIB$$68ce7d38 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:50:17.749 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.57 seconds (JVM running for 3.372)
+[INFO ] 2017-08-28 22:50:21.346 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:50:21.346 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:50:21.352 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:50:25.848 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-28 22:50:25.848 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:50:25.849 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:52:02.624 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:52:02.953 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17159 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:52:02.953 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:52:04.571 [main] AppConfiguration$$EnhancerBySpringCGLIB$$ae42df80 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:52:05.344 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.633 seconds (JVM running for 3.279)
+[INFO ] 2017-08-28 22:52:09.607 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:52:09.608 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:52:09.614 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:52:12.143 [http-nio-8080-exec-2] BotController - Bot controller
+[INFO ] 2017-08-28 22:52:14.727 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-28 22:52:14.727 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:52:14.727 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:52:17.287 [http-nio-8080-exec-4] HomeController - Home controller
+[INFO ] 2017-08-28 22:52:17.287 [http-nio-8080-exec-4] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:52:17.287 [http-nio-8080-exec-4] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:54:49.143 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 22:54:49.473 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17200 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 22:54:49.473 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 22:54:51.046 [main] AppConfiguration$$EnhancerBySpringCGLIB$$aa9e78fa - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 22:54:51.838 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.609 seconds (JVM running for 3.418)
+[INFO ] 2017-08-28 22:54:57.795 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 22:54:57.795 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:54:57.801 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:55:02.408 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 22:55:02.408 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 22:55:02.408 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:00:37.871 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:00:38.204 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17287 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:00:38.205 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:00:39.894 [main] AppConfiguration$$EnhancerBySpringCGLIB$$6eb90a90 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:00:40.891 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.931 seconds (JVM running for 3.787)
+[INFO ] 2017-08-28 23:00:46.202 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-28 23:00:46.202 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:00:46.209 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:01:58.171 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:01:58.506 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17305 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:01:58.506 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:02:00.277 [main] AppConfiguration$$EnhancerBySpringCGLIB$$6eb90a90 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:02:01.034 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.775 seconds (JVM running for 3.428)
+[INFO ] 2017-08-28 23:02:04.880 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 23:02:04.880 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:02:04.886 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:02:10.019 [http-nio-8080-exec-3] HomeController - Home controller
+[INFO ] 2017-08-28 23:02:10.019 [http-nio-8080-exec-3] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:02:10.020 [http-nio-8080-exec-3] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:02:47.415 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:02:47.733 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17317 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:02:47.733 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:02:49.334 [main] AppConfiguration$$EnhancerBySpringCGLIB$$68ce7d38 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:02:50.114 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.618 seconds (JVM running for 3.422)
+[INFO ] 2017-08-28 23:02:58.034 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 23:02:58.034 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:02:58.041 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:03:02.241 [http-nio-8080-exec-2] HomeController - Home controller
+[INFO ] 2017-08-28 23:03:02.241 [http-nio-8080-exec-2] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:03:02.241 [http-nio-8080-exec-2] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:03:21.565 [http-nio-8080-exec-5] BotController - Bot controller
+[INFO ] 2017-08-28 23:03:26.393 [http-nio-8080-exec-6] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 23:04:12.220 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:13:20.447 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:13:20.771 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17469 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:13:20.771 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:13:22.366 [main] AppConfiguration$$EnhancerBySpringCGLIB$$7d37b427 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:13:23.143 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.612 seconds (JVM running for 3.449)
+[INFO ] 2017-08-28 23:16:00.092 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:16:00.414 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17502 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:16:00.415 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:16:02.008 [main] AppConfiguration$$EnhancerBySpringCGLIB$$c2c589a4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:16:02.795 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.618 seconds (JVM running for 3.422)
+[INFO ] 2017-08-28 23:16:05.745 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:16:10.077 [http-nio-8080-exec-2] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:18:31.260 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:18:31.584 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17536 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:18:31.584 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:18:33.183 [main] AppConfiguration$$EnhancerBySpringCGLIB$$5dfe7254 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:18:33.952 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.61 seconds (JVM running for 3.466)
+[INFO ] 2017-08-28 23:18:39.387 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:19:55.430 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:19:55.763 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17553 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:19:55.763 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:19:57.398 [main] AppConfiguration$$EnhancerBySpringCGLIB$$4af2ba7 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:19:58.174 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.656 seconds (JVM running for 3.282)
+[INFO ] 2017-08-28 23:20:02.289 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:20:05.658 [http-nio-8080-exec-4] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:22:50.219 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:22:50.544 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17598 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:22:50.545 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:22:52.112 [main] AppConfiguration$$EnhancerBySpringCGLIB$$4af2ba7 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:22:52.852 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.546 seconds (JVM running for 3.336)
+[INFO ] 2017-08-28 23:23:00.871 [http-nio-8080-exec-1] HomeController - Home controller
+[INFO ] 2017-08-28 23:23:00.872 [http-nio-8080-exec-1] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:23:00.879 [http-nio-8080-exec-1] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:23:04.271 [http-nio-8080-exec-4] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:23:06.518 [http-nio-8080-exec-5] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:25:27.706 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:25:28.036 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17630 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:25:28.037 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:25:29.640 [main] AppConfiguration$$EnhancerBySpringCGLIB$$4af2ba7 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:25:30.406 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.61 seconds (JVM running for 3.415)
+[INFO ] 2017-08-28 23:25:39.228 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:25:43.174 [http-nio-8080-exec-2] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:25:57.817 [http-nio-8080-exec-3] BotController - Bot controller
+[INFO ] 2017-08-28 23:25:59.818 [http-nio-8080-exec-4] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 23:27:33.295 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:27:33.640 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17662 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:27:33.641 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:27:35.239 [main] AppConfiguration$$EnhancerBySpringCGLIB$$75948bcd - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:27:36.017 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.626 seconds (JVM running for 3.461)
+[INFO ] 2017-08-28 23:27:43.682 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 23:27:53.444 [http-nio-8080-exec-3] BotController - Bot controller
+[INFO ] 2017-08-28 23:27:55.009 [http-nio-8080-exec-4] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:27:57.700 [http-nio-8080-exec-5] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:28:36.333 [http-nio-8080-exec-6] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:28:37.881 [http-nio-8080-exec-8] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:29:49.789 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:29:50.136 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17699 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:29:50.136 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:29:51.761 [main] AppConfiguration$$EnhancerBySpringCGLIB$$37fd5847 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:29:52.575 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.697 seconds (JVM running for 3.53)
+[INFO ] 2017-08-28 23:30:17.780 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 23:30:20.036 [http-nio-8080-exec-2] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:30:22.277 [http-nio-8080-exec-3] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:33:54.515 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:33:54.870 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17759 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:33:54.870 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:33:56.519 [main] AppConfiguration$$EnhancerBySpringCGLIB$$4af2ba7 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:33:57.319 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.714 seconds (JVM running for 3.561)
+[INFO ] 2017-08-28 23:34:12.273 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 23:34:15.584 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 23:34:19.684 [http-nio-8080-exec-3] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:34:22.423 [http-nio-8080-exec-4] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:36:32.222 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:36:32.544 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17793 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:36:32.544 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:36:34.297 [main] AppConfiguration$$EnhancerBySpringCGLIB$$ba33b8fd - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:36:35.164 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.858 seconds (JVM running for 3.698)
+[INFO ] 2017-08-28 23:36:37.296 [http-nio-8080-exec-1] BotController - Bot controller
+[INFO ] 2017-08-28 23:36:41.509 [http-nio-8080-exec-2] BotController - Bot controller cadastro
+[INFO ] 2017-08-28 23:36:43.970 [http-nio-8080-exec-3] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:36:46.133 [http-nio-8080-exec-4] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:38:13.329 [http-nio-8080-exec-6] BotController - Bot controller
+[INFO ] 2017-08-28 23:38:44.067 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:38:44.398 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17823 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:38:44.399 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:38:46.003 [main] AppConfiguration$$EnhancerBySpringCGLIB$$96e5719a - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:38:46.816 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.663 seconds (JVM running for 3.461)
+[INFO ] 2017-08-28 23:38:52.829 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:38:55.965 [http-nio-8080-exec-2] IntencoesController - Intencoes controller editar
+[INFO ] 2017-08-28 23:39:03.576 [http-nio-8080-exec-3] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:39:06.129 [http-nio-8080-exec-4] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:39:24.760 [http-nio-8080-exec-6] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:39:27.497 [http-nio-8080-exec-7] IntencoesController - Intencoes controller editar
+[INFO ] 2017-08-28 23:39:51.047 [http-nio-8080-exec-9] IntencoesController - Intencoes controller editar
+[INFO ] 2017-08-28 23:40:07.242 [http-nio-8080-exec-2] LoginController - Login controller
+[INFO ] 2017-08-28 23:40:10.376 [http-nio-8080-exec-5] HomeController - Home controller
+[INFO ] 2017-08-28 23:40:10.376 [http-nio-8080-exec-5] HomeServiceImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:40:10.384 [http-nio-8080-exec-5] HomeDaoImpl - init loadHomeMessage
+[INFO ] 2017-08-28 23:40:13.373 [http-nio-8080-exec-10] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:40:15.871 [http-nio-8080-exec-1] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:44:25.193 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:44:25.519 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17900 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:44:25.519 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:44:27.145 [main] AppConfiguration$$EnhancerBySpringCGLIB$$8951ed1b - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:44:27.952 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.675 seconds (JVM running for 3.541)
+[INFO ] 2017-08-28 23:44:32.185 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:44:32.593 [http-nio-8080-exec-2] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:44:35.777 [http-nio-8080-exec-4] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:48:06.429 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:48:06.761 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17949 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:48:06.761 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:48:08.405 [main] AppConfiguration$$EnhancerBySpringCGLIB$$7d37b427 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:48:09.195 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.681 seconds (JVM running for 3.469)
+[INFO ] 2017-08-28 23:48:15.975 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:48:19.112 [http-nio-8080-exec-3] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:49:26.223 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:49:26.544 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 17966 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:49:26.544 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:49:28.120 [main] AppConfiguration$$EnhancerBySpringCGLIB$$5dfe7254 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:49:28.919 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.611 seconds (JVM running for 3.252)
+[INFO ] 2017-08-28 23:49:33.153 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:49:37.030 [http-nio-8080-exec-2] IntencoesController - Intencoes controller editar
+[INFO ] 2017-08-28 23:52:01.504 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:52:01.841 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 18001 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:52:01.842 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:52:03.489 [main] AppConfiguration$$EnhancerBySpringCGLIB$$37fd5847 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:52:04.243 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.645 seconds (JVM running for 3.43)
+[INFO ] 2017-08-28 23:52:10.951 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:52:14.962 [http-nio-8080-exec-3] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:52:39.002 [http-nio-8080-exec-4] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:52:41.102 [http-nio-8080-exec-8] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:55:39.358 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:55:39.692 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 18048 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:55:39.693 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:55:41.366 [main] AppConfiguration$$EnhancerBySpringCGLIB$$c2c589a4 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:55:42.188 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.744 seconds (JVM running for 3.547)
+[INFO ] 2017-08-28 23:55:43.473 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:55:47.815 [http-nio-8080-exec-3] IntencoesController - Intencoes controller editar
+[INFO ] 2017-08-28 23:57:20.131 [main] SpringBootWebApplication - init main SpringApplication run
+[INFO ] 2017-08-28 23:57:20.459 [main] SpringBootWebApplication - Starting SpringBootWebApplication on MacBook-Pro-de-Rudson.local with PID 18070 (/Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp/target/classes started by rudsonkiyoshi in /Users/rudsonkiyoshi/projetos/santander/ia/webapp/service-webapp)
+[INFO ] 2017-08-28 23:57:20.459 [main] SpringBootWebApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-08-28 23:57:22.044 [main] AppConfiguration$$EnhancerBySpringCGLIB$$4af2ba7 - init AppConfiguration redisTemplate
+[INFO ] 2017-08-28 23:57:22.833 [main] SpringBootWebApplication - Started SpringBootWebApplication in 2.618 seconds (JVM running for 3.255)
+[INFO ] 2017-08-28 23:57:29.897 [http-nio-8080-exec-1] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:57:33.673 [http-nio-8080-exec-3] IntencoesController - Intencoes controller cadastro
+[INFO ] 2017-08-28 23:57:52.483 [http-nio-8080-exec-4] IntencoesController - Intencoes controller
+[INFO ] 2017-08-28 23:57:54.490 [http-nio-8080-exec-5] IntencoesController - Intencoes controller cadastro

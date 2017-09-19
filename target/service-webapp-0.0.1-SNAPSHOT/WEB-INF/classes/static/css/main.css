@@ -1,0 +1,57 @@
+h1{
+	color:#000000;
+}
+
+h2{
+	color:#FF0000;
+}
+
+.footer {
+    position:relative;
+    bottom:0;
+    width:100%;
+}
+
+.mt-15 {
+	margin-top:15px !important;
+}
+
+.mt-30 {
+	margin-top:30px !important;
+}
+
+.mr-15 {
+	margin-right:15px !important;
+}
+
+.ml-15 {
+	margin-left:15px !important;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.show {
+  display: block !important;
+}
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+.invisible {
+  visibility: hidden;
+}
+
+.entry:not(:first-of-type)
+{
+    margin-top: 10px;
+}
+
+.glyphicon
+{
+    font-size: 12px;
+}
